@@ -13,15 +13,14 @@ Alojado gratis en GitHub Pages.
 | Nederlands | https://geostyn.github.io/geomont-web/nl.html |
 | Français | https://geostyn.github.io/geomont-web/fr.html |
 
-## ⚠️ ANTES de enviar la app a revisión
+## Email de contacto
 
-El email de contacto es un **marcador de posición**: `geomont.app@outlook.com`
+`geostyn.app@outlook.com` — aparece 2 veces en cada uno de los 4 archivos HTML
+(apartado "responsable" y apartado "contacto").
 
-Si no vas a usar exactamente esa dirección, créala o cámbiala en los **4 archivos HTML**
-(aparece 2 veces en cada uno: en el apartado "responsable" y en el de "contacto").
-
-Debe ser una dirección que **funcione de verdad** — Google la puede comprobar y los usuarios
-la usarán para reclamaciones de GDPR.
+⚠️ Tiene que ser una dirección que **funcione de verdad**: Google la puede comprobar y los
+usuarios la usarán para reclamaciones de GDPR. Si se cambia, cambiarla en los 4 HTML
+y también en la ficha de Play Console.
 
 ## Por qué este repo está separado de la app
 
